@@ -1,0 +1,111 @@
+Aceleración: El aumento en la velocidad cada segundo. Se mide en metros por segundo, m/s2.
+Amplitud: El alto de una onda. Desplazamiento máximo de cualquier fenómeno periódico.
+Atomo: La partícula más pequeña de un elemento que puede tomar parte en una reacción.
+Conductor: Sustancia o cuerpo que ofrece poca resistencia al paso de calor o una corriente eléctrica.
+Coulomb: La unidad para carga eléctrica. Es la carga transportada en un segundo por una corriente de un amperio.
+Corriente: La razón de flujo de electricidad, medida en amperios.
+Decibeles: La unidad de la intensidad de sonido.
+Densidad: Masa por unidad de volumen, usualmente se expresa como g/mL.
+Electrón: Partícula de carga negativa, presente en todos los átomos.
+Energía: Medida de la capacidad para realizar un trabajo. Se expresa en julios (J).
+ADN: Un ácido nucleico de doble cadena, compuesto de adenina, guanina, citosina, timina, desoxiribosa y fosfato
+ARN: Un ácido nucleico de una sola cadena , compuesto de adenina, guanina, citosina, uracilo, ribosa y fosfato
+Actina: Proteína globular, participa en los mecanismos de contracción de los microfilamentos
+Adenina: Base nitrogenada halladas en el ADN y ARN
+Aeróbico: Organismo que metaboliza en presencia de oxígeno molecular
+Aleurona: Producto de naturaleza proteíca, que se almacena en las semillas y que se moviliza durante la germinación
+Alcalina: Substancia que libera iones hidroxilos en solución
+Alcaloide: Un grupo de compuestos nitrogenados orgánicos de origen vegetal , de carácter básico
+Almidón: Un polisacárido compuesto por moléculas de a -glucosa, es el principal producto de reseva de las plantas
+Aminoácido: Un ácido orgánico con un grupo amino (NH2 ) y un grupo carboxilo ( -COOH )
+Amilasa: Una enzima que hidroliza el almidón convirtiéndolo en azucares
+Anaeróbico: Organismo que funciona en ausencia de oxígeno molecular
+Autotrófico: Un organismo que produce sus propios alimentos a través de la fotosíntesis
+Buffer: Cualquier substancia que absorbe o libera protones para mantener el pH de la solución estable
+Carbohidrato: Un compuesto orgánico que contiene carbono, hidrógeno y oxígeno; como los azucares, almidón y celulosa.
+Carotenoide: Un terpeno compuesto por ocho unidades de isopreno, sintetizado por muchas plantas
+Catalizador: Cualquier substancia que acelera la velocidad de una reacción sin participar en ella
+Celulasa: Una enzima que hidroliza la celulosa, convirtiéndola en glucosa
+Celulosa: El principal carbohidrato estructural de las células vegetales
+Cigoto: Célula diploideresultante de la union de dos gametos haploides, óvulo fecundado como resultado de la fertilización
+Clorofila: La molécula responsable de captar la energía luminosa en los primeros eventos de la fotosíntesis
+Cloroplastos: Organelos encontrados en las partes superiores de las plantas, contienen clorofila y relizan la fotosíntesis
+Cromatina: Es el material nuclear que se tiñe de oscuro, presente durante la interfase
+Cromoplasto: Organelos rodeados por una membrana que almacenan carotenoides
+Cromosoma: Filamentos microscópicos dentro del núcleo de células eucarióticas, que tienen el ADN responsable de la herencia
+Clon: Organismos genéticamente idénticos
+Cresta: Pliegues presentes en la membrana interna de las mitocondrias
+Ciclosis: Circulación del citoplasma en el interior de la célula junto con algunos organelos
+Citoplasma: El contenido viscoso de la célula, que se encuentra en la parte interna de la membrana plasmática, excluyendo al núcleo
+Citosol: Es la savia celular, es el medio acuoso, en el que están suspendidos los organelos y las partículas insolubles de la célula
+Desoxirribosa: Un azúcar de cinco carbonos que forma parte del ADN
+Difusión: El movimiento de moléculas al azar, de una región de alta concentración a otra de baja concentración
+Enzima: Es un biocatalizador de naturaleza proteíca
+Ergástico: Inclusiones de material relativamente puro, frecuentes en plastidios o vacuolas, p ej
+Estroma: La matriz proteica entre las granas de los cloroplastos
+Etanol: El alcohol etílico es el producto final de la fermentación alcohólica.
+Eucariote: Organismo cuyas células poseen núcleo delimitado por membrana
+Fisión: Proceso de reproducción asexual, en el que un organismo u organelo se divide en dos partes más o menos iguales
+Fotosíntesis: Es la producción de carbohidratos por la combinación de CO2 y H2O, en los cloroplastos, catalizada por la luz, con la liberación de O2 
+Gen: La unidad de la herencia. Codifica una proteína
+Genoma: El complemento genético total de un organismo
+Grasas: Moléculas orgánicas que contienen gran cantidad de carbono e hidrógeno, pero poco oxígeno
+Glucosa: Un monosacárido de 6-carbonos ( azúcar simple), el primer substrato de la respiración
+Glucólisis: Una serie de reacciones que preceden la respiración aeróbica o anaeróbica, en la que la glucosa es oxidada a ácido pirúvico
+Glioxisoma: Un microcuerpo subcelular presente en el citoplasma de muchas semillas oleaginosas
+Grana: Estructuras en el interior de los cloroplastos, que se observan como gránulos verdes con el microscopio óptico
+Hemicelulosa: Un polisacárido componente de la pared celular primaria; similar a la celulosa, pero degradado más fácilmente
+Herencia: La transmisión de caracteres genéticamente controlados de padres a hijos a través de la reproducción sexual
+Heterotrófico: Un organismo que obtiene sus alimentos a partir de otros organismos
+Histonas: Proteínas básicas que constituyen una porción del material nuclear, asociadas funcionalmente al ADN
+Hidrólisis: El rompimiento de una molécula grande en moléculas pequeñas, mediante la adición de agua
+Hidrofílico: La propiedad que tiene una substancia de atraer agua
+Hidrofóbico: La propiedad que tiene una substancia de repeler el agua.
+Impermeable: Que tiene la propiedad de restringir el pasaje de substancias
+Inorgánico: Un compuesto químico sin carbono en su esqueleto atómico
+Interfase: La condición nuclear entre una mitosis y la próxima
+Ion: Un átomo o molécula que ha ganado o perdido un electrón, haciendo que la partícula se cargue eléctricamente
+Leucoplasto: Organelo rodeado por una membrana, especializado en el almacenamiento de almidón
+Lignina: Una molécula orgánica compleja hallada como componente importante de las paredes secundarias
+Lípido: Un aceite o grasa, formado por glicerol y ácidos grasos
+Lumen: La cavidad central de una célula
+Macrofibrilla: Un agregado de microfibrillas en la pared celular, visibles con el microscopio óptico
+Macromolécula: Una molécula muy grande
+Membrana: En los organismos vivos, una bicapa de fosfolípidos impregnada con proteínas y otros compuestos
+Meristema: Es una zona o tejido, a partir del cual se forman células nuevas por división
+Metabolismo: La suma de todas las reacciones químicas que ocurren en una célula
+Microfibrilla: Un cordón alargado de moléculas de celulosa
+Microtúbulos: Estructuras delgadas cilíndricas, formados por la proteína tubulina , que son importantes en la síntesis de algunas membranas
+Mitocondria: Un organelo celular rodeado por una doble membrana, cuya función es la respiración aeróbica.
+Mitosis: La división nuclear de las células somáticas, que da como resultado dos núcleos hijos idénticos
+Mucigel: Un material mucoso segregado por los ápices de las raíces y los pelos radicales
+Mucilaginoso: Que contiene un mucilago, compuesto de mucopolisacáridos
+Nucleólo: Estructura nuclear especializada, con regiones densas de ADN asociadas a ciertos cromosomas, lugar de síntesis de los precursores de los ribosomas
+Núcleo: Es el organelo más grande de la célula eucarióte, rodeado por una envoltura nuclear, contiene los cromosomas y mucho del ADN celular
+Organelo: Partícula subcelular que realiza una función determinada en la célula
+Ósmosis: Un caso especial de difusión de agua, a través de una membrana selectivamente permeable
+ParedCelular: La capa rígida más externa encontrada en las células de las plantas, muchos protistas y algunas bacterias
+Pectina: La substancia cementante encontrada en la lámina media , compuesta principalmente de ácido pectico y pectato de calcio
+Permeabilidad: Una propiedad de la membrana de dejar pasar libremente substancias
+Peroxisoma: Un microcuerpo celular que contiene las enzimas de la fotorrespiración
+PH: Es el logaritmo negativo de la concentración de iones de hidrógeno
+Plasmodesmos: Cordones microscópicos de citoplasma, que atraviesan la pared celular y ponen en comunicación los citoplasmas de dos células contiguas
+Plasmólisis: La pérdida osmótica de agua del citoplasma y la vacuola, causa que el citoplasma se separe de la pared celular.
+Plastidios: Organelos de la célula vegetal, entre los cuales están los cloroplastos, cromoplastos y leucoplastos
+Polímero: Una macromolécula formada por la unión de pequeñas moléculas (monómeros) idénticas, p ej
+celulosa, almidón
+Polisoma: Un grupo de ribosomas relacionados funcionalmente y unidos por un cordón de ARNm
+Procariotes: Organismos cuyas células no contienen núcleo, incluyen a las bacterias y cianobacterias
+Profase: Es la primera etapa de la división nuclear, se caracteriza por la desaparición de la envoltura nuclear y la aparición de cromosomas acortados
+Proplastidios: Partículas rodeadas por membrana, que desarrollan una estructura interna 
+Proteína: Una macromolécula compuesta por una secuencia linear de aminoácidos
+Protoplasto: La porción viva de la célula
+Respiración: Es el proceso mediante el cual se convierte la energía de la glucosa en ATP
+Ribosa: Un azucar de cinco carbonos importante en el ARN y otros compuestos
+Ribosoma: El organelo celular responsable de la traducción de la síntesis de proteínas RUDP
+Tilacoides: Pilas de sacos membranosos aplanados, que forman las granas en el interior del cloroplasto
+Tejido: Un grupo de células similares en origen y estructura, que relizán una función particular
+Vacuola: Una inclusión citoplasmática, con un contenido acuoso, rodeada por el tonoplasto y que almacena iones y moléculas de bajo peso molecular
+Vesicula: Un saco pequeño rodeado de una membrana, que se separa de una membrana mediante una constricción como en el aparato de Golgi
+Virus: Una partícula parecida a un cristal, que tiene una cubierta proteica y un núcleo de ADN o de ARN, pero no de ambos.
+Xilema: En las plantas vasculares es el tejido conductor de agua y sales minerales
